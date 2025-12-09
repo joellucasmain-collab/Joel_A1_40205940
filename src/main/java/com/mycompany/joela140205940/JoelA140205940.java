@@ -11,6 +11,6 @@ package com.mycompany.joela140205940;
 public class JoelA140205940 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello ");
     }
 }
